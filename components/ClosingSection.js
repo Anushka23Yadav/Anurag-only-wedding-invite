@@ -97,7 +97,7 @@ export default function ClosingSection() {
           </div>
           <p className="font-heading text-sm uppercase tracking-[0.5em] text-gold font-bold">With Love & Blessings</p>
           <h3 className="font-alex text-5xl md:text-6xl text-forest">
-            {couple.groom.name} and {couple.bride.name} 🙏
+            {couple.groom.name} and {couple.bride.name}
           </h3>
           {/* <p className="font-heading text-lg text-forest/50 italic">{dates.weddingDateText}</p> */}
         </motion.div>
